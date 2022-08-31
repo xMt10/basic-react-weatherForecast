@@ -1,3 +1,18 @@
+#Weather Forecast
+
+## you can search the current weather of the cities you want in this app.
+Here is preview:
+
+![Banner gif](https://github.com/xMt10/basic-react-weatherForecast/blob/main/Weather%20Forecast.gif)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
